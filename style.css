@@ -1,21 +1,20 @@
-body
-{
-  background:#E6CBC4;
-  color:#333;
-  width:100%;
-  font-family:sans-sherif;
-  margin:0 auto;
+body{
+    background:#E6CBC4;
+    color:#333;
+    width:100%;
+    font-family:sans-sherif;
+    margin:0 auto;
 }
 
-.header
-{
-  width:90%;
-  margin:auto;
-  height:120px;
-  line-height:120px;
-  background:#E6CBC4;
-  color:#fff;
+.header{
+    width:90%;
+    margin:auto;
+    height:120px;
+    line-height:120px;
+    background:#417aa8;
+    color:#fff;
 }
+
 
 
 
